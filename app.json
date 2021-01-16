@@ -1,0 +1,12 @@
+{
+  "name": "test-native",
+  "displayName": "test-native",
+  "expo": {
+    "name": "test-native",
+    "slug": "test-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
